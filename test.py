@@ -145,6 +145,6 @@ while True:
         
         if gunshot_count >= threshold:
             print("Gunshots Detected!")
-            # alert()
+            # alert()##################################################################
         else:
             print('peaceful')
